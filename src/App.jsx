@@ -122,7 +122,7 @@ function App() {
           </div>
 
 
-          <div id="skills" className='mt-[200px] mb-[00px]'>
+          <div id="skills" className='mt-[50px] mb-[50px]'>
 
              <div className='flex flex-col items-center '>
                <div id="him" className='animate-bounce bg-[#14142B]  text-[#7B4AE2] font-bold  w-[150px] h-[35px] rounded-[16px] flex items-center gap-x-2 justify-center'>
